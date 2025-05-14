@@ -1,6 +1,6 @@
 # Theory of Computation Practical Exam
 
-- Name: Basel Wael AbdelMone Mohamed
+- Name: Basel Wael AbdelMonem Mohamed
 - Section: 2
 
 ## Overview
