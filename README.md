@@ -1,7 +1,7 @@
 # Theory of Computation Practical Exam
 
-Name: Basel Wael AbdelMone Mohamed
-Section: 2
+- Name: Basel Wael AbdelMone Mohamed
+- Section: 2
 
 ## Overview
 This Practical exam contains 3 problems (2 problem to solve are required to pass).
