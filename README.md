@@ -10,11 +10,13 @@ This Practical exam contains 3 problems (2 problem to solve are required to pass
 
 
 Practical/
+```
 ├──Problem 1
     ├──reg_to_dfa.py                    # Simpler implementation with hardcoded for RE "(a|b)*abb" 
     └──reg_to_dfa_v2.py                 # More complex implementation suports (Concatenation, Union, Kleene Star, and Parentheses) for RE with Symbols ('a', 'b').
 ├──Problem 2
     └──pda_odd_palindrome.py            # Simulating a pushdown automaton (PDA) to check if a string is odd-length palindrome for Symbols ('a', 'b').
+```
 
 
 ## Usage
